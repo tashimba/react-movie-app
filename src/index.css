@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,500;0,700;0,900;1,400&display=swap');
+
+
+:root {
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+  color: #ffffff;
+  background: url('./images/Background.png') no-repeat center center/cover #20283E
+}
+
+input {
+  width: 250px;
+  padding: 5px;
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+  box-sizing: border-box;         /* Opera/IE 8+ */
+}
+input:focus{
+  outline: none;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
