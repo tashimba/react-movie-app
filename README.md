@@ -1,6 +1,6 @@
 # react-movie-app
 
-Простой аналог Кинопоиска
+Simple analogue of Kinopoisk 
 
 API allows only 100 requests per day
 
