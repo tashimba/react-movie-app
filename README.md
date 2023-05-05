@@ -1,4 +1,5 @@
 # react-movie-app
-# npm run dev
+
+Простой аналог Кинопоиска
 
 API allows only 100 requests per day
