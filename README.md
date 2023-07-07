@@ -1,7 +1,5 @@
 # react-movie-app
 
-Simple analogue of Kinopoisk 
+Реализовано приложение поиска фильмов с использованием API - https://kinopoisk.dev/
 
-API allows only 100 requests per day
-
-npm run dev - for starting 
+Функционал - поиск, фильтрация, сортировка, просмотр страницы отдельного фильма, динамическая пагинация.
